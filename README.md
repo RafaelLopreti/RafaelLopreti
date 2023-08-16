@@ -35,3 +35,5 @@
   <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>   
 </div>
+
+![snake gif](https://github.com/RafaelLopreti/RafaelLopreti/blob/output/github-contribution-grid-snake.svg)
