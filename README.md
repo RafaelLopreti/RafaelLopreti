@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rafael Lopreti
 
-- 🎉 Há quase dois anos de trabalho com Java
+- 🎉 Há mais de dois anos de trabalho com Java
 
 <div> 
   <a href = "mailto:rafael.lopreti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,7 +23,7 @@
 - 💻 Algumas ferramentas e linguagens do meu dia a dia
 <div style="display: inline_block">
   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
+  <img align="center" alt="lua" height="40" width="40" src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png"/>
   <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
