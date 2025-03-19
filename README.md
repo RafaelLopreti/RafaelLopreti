@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rafael Lopreti
 
-- 🎉 Há mais de três anos de trabalho com programação, focando em Java
+- 🎉 Há mais de três anos de trabalho com programação
 
 <div> 
   <a href = "mailto:rafael.lopreti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
