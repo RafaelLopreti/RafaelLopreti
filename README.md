@@ -1,6 +1,6 @@
-### Olá, eu sou o Rafael Lopreti
+### Hello World, eu sou o Rafael Lopreti!
 
-- 🎉 Há mais de três anos de trabalho com programação
+- 🎉 Desde os 13 anos de idade mexendo com programação
 
 <div> 
   <a href = "mailto:rafael.lopreti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,10 +23,8 @@
 - 💻 Algumas ferramentas e linguagens do meu dia a dia
 <div style="display: inline_block">
   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="lua" height="40" width="40" src="https://static-00.iconduck.com/assets.00/lua-icon-2048x2048-iud9q772.png"/>
-  <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="flutter" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-svg-download-png-1720090.png"/>
+  <img align="center" alt="dart" height="40" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4"/>
   <img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
   <img align="center" alt="kibana" height="40" width="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/>
   <img align="center" alt="aws" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
