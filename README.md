@@ -1,7 +1,7 @@
 # - Hello World! Eu sou o **Rafael Lopreti**
 
 - Desenvolvedor Full Stack apaixonado por criar soluções práticas e performáticas.  
-- Desde os 13 anos explorando o mundo da programação — e aprendendo algo novo todos os dias.
+- Desde os 13 anos explorando o mundo da programação e aprendendo algo novo todos os dias.
 
 ---
 
