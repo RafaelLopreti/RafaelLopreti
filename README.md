@@ -21,13 +21,13 @@
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=RafaelLopreti&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=allanlopreti&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ---
 
 ### Tools and Languages
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafaelLopreti&layout=compact&theme=tokyonight)](https://github.com/RafaelLopreti)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allanlopreti&layout=compact&theme=tokyonight)](https://github.com/allanlopreti)
 
 #### Languages
 <div>
