@@ -75,7 +75,7 @@ aimed at connecting landlords and tenants.
 **About the project:**
 - Authentication and push notifications
 - Real-time chat between users
-- Photos uploading** and management
+- Photos uploading and management
 - Integration with external payment processor
 - Google Maps integration for location-based services
 - Backend API (REST) for business logic and data management
