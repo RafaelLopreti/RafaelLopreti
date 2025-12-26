@@ -1,7 +1,8 @@
 # - Hello World! I am **Allan Lopreti**
 
-- Software Engineer passionate about creating practical and high-performance solutions.
-- Exploring the world of programming since the age of 13 and learning something new every day.
+Software engineer focused on backend and mobile development, 
+with experience in creating scalable APIs, real-time features, 
+and complete applications and solutions using Java, Kafka, Spring Boot, Flutter, and more.
 
 ---
 
@@ -73,13 +74,14 @@
 
 ### Current project
 I am currently developing a rental platform (iOS/Android), 
-aimed at connecting landlords and tenants.
+aimed at connecting landlords and tenants, focused on usability, security, and real-time interactions.
+
 
 **About the project:**
 - Authentication and push notifications
 - Real-time chat between users
 - Photos uploading and management
-- Integration with external payment processor
+- Integration with external payment processor to enable secure and scalable transactions
 - Google Maps integration for location-based services
 - Backend API (REST) for business logic and data management
 - Modern interface built in Flutter
