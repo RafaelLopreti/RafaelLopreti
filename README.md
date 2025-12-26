@@ -1,11 +1,11 @@
-# - Hello World! Eu sou o **Rafael Lopreti**
+# - Hello World! I am **Allan Lopreti**
 
-- Desenvolvedor Full Stack apaixonado por criar soluções práticas e performáticas.  
-- Desde os 13 anos explorando o mundo da programação e aprendendo algo novo todos os dias.
+- Software Engineer passionate about creating practical and high-performance solutions.
+- Exploring the world of programming since the age of 13 and learning something new every day.
 
 ---
 
-### Contato e Redes
+### Contact and Networks
 
 <div>
   <a href="mailto:rafael.lopreti@gmail.com" target="_blank">
@@ -26,24 +26,24 @@
 
 ---
 
-### Ferramentas e Linguagens
+### Tools and Languages
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafaelLopreti&layout=compact&theme=tokyonight)](https://github.com/RafaelLopreti)
 
-#### Linguagens
+#### Languages
 <div>
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
   <img alt="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart"/>
   <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
 </div>
 
-#### Frameworks e Plataformas
+#### Frameworks and Platforms
 <div>
   <img alt="Spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring Boot"/>
   <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
 </div>
 
-#### Ferramentas e Cloud
+#### Tools and Cloud
 <div>
   <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
   <img alt="Azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure"/>
@@ -52,13 +52,13 @@
   <img alt="Kibana" height="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" title="Kibana"/>
 </div>
 
-#### Mensageria
+#### Messaging
 <div> 
   <img alt="Apache Kafka" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka"/> 
   <img alt="RabbitMQ" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"/> 
 </div>
 
-#### Banco de Dados
+#### Databases
 <div>
   <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
@@ -68,20 +68,22 @@
 
 ---
 
-### Projeto Atual
-Atualmente desenvolvo uma **plataforma de aluguel** multiplataforma (iOS / Android),  
-voltada à **conexão entre locadores e locatários** de espaços.  
+### Current project
+I am currently developing a rental platform (iOS/Android), 
+aimed at connecting landlords and tenants.
 
-Sobre o projeto:
-- **Firebase** para autenticação e armazenamento em nuvem  
-- Suporte para **upload e gerenciamento de fotos**
-- Chat entre usuários com **Kafka**
-- Integração com **processadora de pagamentos externa**  
-- Interface moderna construída em **Flutter**  
-- **Escalável e seguro**  
+**About the project:**
+- Authentication and push notifications
+- Real-time chat between users
+- Photos uploading** and management
+- Integration with external payment processor
+- Google Maps integration for location-based services
+- Backend API (REST) for business logic and data management
+- Modern interface built in Flutter
+- Scalable and secure architecture
 
-*(Em desenvolvimento — breve disponível para todo o Brasil)*
+*(Under development — coming soon to all of Brazil)*
 
 ---
 
-*“Simplicidade é o último grau de sofisticação.”* — Leonardo da Vinci
+*“Simplicity is the ultimate sophistication.”* — Leonardo da Vinci
